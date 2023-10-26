@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int even()
+int fn()
 {
     int num;
 
@@ -15,7 +15,7 @@ int even()
 
 int main()
 {
-    even();
+    fn();
 
     getch();
 }
